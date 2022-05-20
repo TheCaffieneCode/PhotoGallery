@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PhotoGallery/static/css/main.e6c13ad2.css",
+    "main.js": "/PhotoGallery/static/js/main.4653634b.js",
+    "static/js/787.c28e8d7d.chunk.js": "/PhotoGallery/static/js/787.c28e8d7d.chunk.js",
+    "static/media/hawk.jpeg": "/PhotoGallery/static/media/hawk.144f19a0682337c4f445.jpeg",
+    "static/media/owl.webp": "/PhotoGallery/static/media/owl.6d1c6c3e8edd37287a2d.webp",
+    "static/media/koel.jpeg": "/PhotoGallery/static/media/koel.05d07f72eaeb25bb57d4.jpeg",
+    "static/media/lion.jpeg": "/PhotoGallery/static/media/lion.9b75b418661fadac01b3.jpeg",
+    "static/media/dog.jpeg": "/PhotoGallery/static/media/dog.c2b07a86e899e77a63fe.jpeg",
+    "static/media/wolf.jpeg": "/PhotoGallery/static/media/wolf.b4b4600186b29b83e9df.jpeg",
+    "static/media/Cat.jpeg": "/PhotoGallery/static/media/Cat.ad1af3a9f81b98bb26e0.jpeg",
+    "static/media/parrot.jpeg": "/PhotoGallery/static/media/parrot.2fd6640327a74aea98ee.jpeg",
+    "index.html": "/PhotoGallery/index.html",
+    "main.e6c13ad2.css.map": "/PhotoGallery/static/css/main.e6c13ad2.css.map",
+    "main.4653634b.js.map": "/PhotoGallery/static/js/main.4653634b.js.map",
+    "787.c28e8d7d.chunk.js.map": "/PhotoGallery/static/js/787.c28e8d7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4653634b.js"
+  ]
+}
