@@ -1,23 +1,23 @@
 {
-  "files": {
-    "main.css": "/PhotoGallery/static/css/main.e6c13ad2.css",
-    "main.js": "/PhotoGallery/static/js/main.4653634b.js",
-    "static/js/787.c28e8d7d.chunk.js": "/PhotoGallery/static/js/787.c28e8d7d.chunk.js",
-    "static/media/hawk.jpeg": "/PhotoGallery/static/media/hawk.144f19a0682337c4f445.jpeg",
-    "static/media/owl.webp": "/PhotoGallery/static/media/owl.6d1c6c3e8edd37287a2d.webp",
-    "static/media/koel.jpeg": "/PhotoGallery/static/media/koel.05d07f72eaeb25bb57d4.jpeg",
-    "static/media/lion.jpeg": "/PhotoGallery/static/media/lion.9b75b418661fadac01b3.jpeg",
-    "static/media/dog.jpeg": "/PhotoGallery/static/media/dog.c2b07a86e899e77a63fe.jpeg",
-    "static/media/wolf.jpeg": "/PhotoGallery/static/media/wolf.b4b4600186b29b83e9df.jpeg",
-    "static/media/Cat.jpeg": "/PhotoGallery/static/media/Cat.ad1af3a9f81b98bb26e0.jpeg",
-    "static/media/parrot.jpeg": "/PhotoGallery/static/media/parrot.2fd6640327a74aea98ee.jpeg",
-    "index.html": "/PhotoGallery/index.html",
-    "main.e6c13ad2.css.map": "/PhotoGallery/static/css/main.e6c13ad2.css.map",
-    "main.4653634b.js.map": "/PhotoGallery/static/js/main.4653634b.js.map",
-    "787.c28e8d7d.chunk.js.map": "/PhotoGallery/static/js/787.c28e8d7d.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.4653634b.js"
-  ]
+  "main.css": "/PhotoGallery/static/css/main.8fc4b7b9.chunk.css",
+  "main.js": "/PhotoGallery/static/js/main.cccb4629.chunk.js",
+  "main.js.map": "/PhotoGallery/static/js/main.cccb4629.chunk.js.map",
+  "static/js/1.98639319.chunk.js": "/PhotoGallery/static/js/1.98639319.chunk.js",
+  "static/js/1.98639319.chunk.js.map": "/PhotoGallery/static/js/1.98639319.chunk.js.map",
+  "static/js/2.153f77b5.chunk.js": "/PhotoGallery/static/js/2.153f77b5.chunk.js",
+  "static/js/2.153f77b5.chunk.js.map": "/PhotoGallery/static/js/2.153f77b5.chunk.js.map",
+  "runtime~main.js": "/PhotoGallery/static/js/runtime~main.285b7f9a.js",
+  "runtime~main.js.map": "/PhotoGallery/static/js/runtime~main.285b7f9a.js.map",
+  "static/media/Cat.jpeg": "/PhotoGallery/static/media/Cat.63003ac4.jpeg",
+  "static/media/dog.jpeg": "/PhotoGallery/static/media/dog.bb92e702.jpeg",
+  "static/media/hawk.jpeg": "/PhotoGallery/static/media/hawk.e9116a87.jpeg",
+  "static/media/koel.jpeg": "/PhotoGallery/static/media/koel.0bba365d.jpeg",
+  "static/media/lion.jpeg": "/PhotoGallery/static/media/lion.8f0c085e.jpeg",
+  "static/media/owl.webp": "/PhotoGallery/static/media/owl.857426cf.webp",
+  "static/media/parrot.jpeg": "/PhotoGallery/static/media/parrot.c0e09ea3.jpeg",
+  "static/media/wolf.jpeg": "/PhotoGallery/static/media/wolf.ca0856b0.jpeg",
+  "static/css/main.8fc4b7b9.chunk.css.map": "/PhotoGallery/static/css/main.8fc4b7b9.chunk.css.map",
+  "index.html": "/PhotoGallery/index.html",
+  "precache-manifest.04e8ddf5192d40100b540384bb6f3d36.js": "/PhotoGallery/precache-manifest.04e8ddf5192d40100b540384bb6f3d36.js",
+  "service-worker.js": "/PhotoGallery/service-worker.js"
 }
